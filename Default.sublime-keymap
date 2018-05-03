@@ -1,0 +1,5 @@
+[
+    // Utility keybindings
+    {"keys": ["super+shift+v"], "command": "terminal_view_paste", "context": [{"key": "setting.terminal_view"}]},
+    {"keys": ["super+shift+c"], "command": "terminal_view_copy", "context": [{"key": "setting.terminal_view"}]},
+  ]

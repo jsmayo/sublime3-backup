@@ -1,0 +1,5 @@
+{
+    "caption": "Preferences: Terminal View: Color Scheme",
+    "command": "edit_settings",
+    "args": {"base_file": "Packages/Theme - One Dark/One Dark.tmTheme"},
+  },

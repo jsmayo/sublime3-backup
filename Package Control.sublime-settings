@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Agila Theme",
+		"All Autocomplete",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPick",
+		"Dracula Color Scheme",
+		"Emmet",
+		"FixMyJS",
+		"GitGutter",
+		"HTML Boilerplate",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"JSHint",
+		"JSHint Gutter",
+		"Materialize",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint_d",
+		"Terminal",
+		"TerminalView",
+		"Theme - Cobalt2",
+		"Theme - One Dark",
+		"Theme - Soda"
+	]
+}
